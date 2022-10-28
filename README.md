@@ -9,7 +9,7 @@ Python library to launch, interact, and snapshot cloud instances
 Install directly from [PyPI](https://pypi.org/project/pycloudlib/):
 
 ```shell
-pip3 install pycloudlib
+python3 -m pip install pycloudlib
 ```
 
 Project's requirements.txt file can include pycloudlib as a dependency. Check out the [pip documentation](https://pip.readthedocs.io/en/1.1/requirements.html) for instructions on how to include a particular version or git hash.
@@ -17,7 +17,7 @@ Project's requirements.txt file can include pycloudlib as a dependency. Check ou
 Install from latest master:
 
 ```shell
-git clone https://git.launchpad.net/pycloudlib
+git clone https://github.com/canonical/pycloudlib
 cd pycloudlib
 python3 setup.py install
 ```
@@ -30,7 +30,7 @@ See the examples directory or the [online documentation](https://pycloudlib.read
 
 ## Bugs
 
-File bugs on Launchpad at the [pycloudlib project](https://bugs.launchpad.net/pycloudlib/+filebug).
+File bugs on GitHub at the [pycloudlib project](https://github.com/canonical/pycloudlib/issues/new).
 
 ## Contact
 
